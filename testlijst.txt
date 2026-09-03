@@ -1,3 +1,3 @@
 [testlijst]
-| demo lijst
-||crv4all.com^
+# demo lijst
+127.0.0.1 crv4all.com
